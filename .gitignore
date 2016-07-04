@@ -98,4 +98,4 @@ jspm_packages
 .node_repl_history
 
 # TernJS
-.tern-port
+*.tern-port
